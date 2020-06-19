@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background: $red;
+  font: 18px/1.4 $Oswald;
+  color: $darkblue;
 }
 
 .container {
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $Oswald;
   color: $darkerGray;
   font-weight: bold;
 
@@ -213,7 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $Oswald;
   font-size: 18px;
 
   @include mobile {
@@ -232,7 +232,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $pink;
     }
   }
 }
