@@ -3,7 +3,7 @@ published: true
 ---
 **By Carla McManus**
 
-![Screen Shot 2020-07-06 at 3.34.32 PM.png]({{site.baseurl}}/_posts/Screen Shot 2020-07-06 at 3.34.32 PM.png)
+![Lucy.png]({{site.baseurl}}/_posts/Screen Shot 2020-07-06 at 3.34.32 PM.png)
 
 On the 9th of October 2018 at 9.20pm our little bundle of joy arrived into the world. Ten tiny fingers, ten tiny toes, she was perfect, a dream come true. I will never forget that first hug, her big lips, beading eyes and of course the sweetest baby scent. We were smitten with our precious Lucy. The following day a nurse noticed Lucy was a bit jaundice, so she had to be put into an infrared incubator to restore the pigment of her skin. The day before we were due to go home a doctor checked her over and noticed she was a little “floppy”. Now to us we did not know any different. We are first time parents. Aren’t all babies floppy? We thought nothing of it. Lucy then failed her newborn hearing test and we got a follow up for 2 weeks time. Lucy also got a referral to see a paediatrician for when she was 4 months old.
 
@@ -33,7 +33,7 @@ As genetic testing will be a future thing, you will never know you're a carrier 
 I set up my Instagram page Lucysjourneywithmammy to show Lucy’s journey and to raise awareness for zellweger syndrome. Nobody knows what is around the corner for anyone. We never thought we would be in this situation. It is not something you expect when you meet
 your soulmate and plan your life and not realise that it was a 1 in 50,000 chance that 2 carriers of the same gene met, fell in love and your future plans now change and your fairytale ending is not the one you expected.
 
-![The Path to Happiness]({{site.baseurl}}/_posts/Screen Shot 2020-07-06 at 3.36.22 PM.png)
+![PathToHappiness.png]({{site.baseurl}}/_posts/Screen Shot 2020-07-06 at 3.36.22 PM.png)
 
 
 We are so lucky that we have a huge support from our amazing families and friends, who never go a day without checking in on us, but above all else, we now have to support each other to be strong for Lucy. We all hope for miracles, and we hope that Lucy “our warrior” can defy all the odds against her.
@@ -41,4 +41,4 @@ We are so lucky that we have a huge support from our amazing families and friend
 ****
 She is our little ray of hope her smile is so uplifting it can turn tears into laughter.
 
-![Quote about Raising Kids with Special Needs]({{site.baseurl}}/_posts/Screen Shot 2020-07-06 at 3.35.23 PM.png)
+![RaisingChildWithDisabilities.png]({{site.baseurl}}/_posts/Screen Shot 2020-07-06 at 3.35.23 PM.png)
