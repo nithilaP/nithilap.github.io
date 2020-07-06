@@ -1,8 +1,7 @@
 ---
 published: true
 ---
-##
-By Carla McManus
+## By Carla McManus
 
 ![Screen Shot 2020-07-06 at 3.34.32 PM.png]({{site.baseurl}}/_posts/Screen Shot 2020-07-06 at 3.34.32 PM.png)
 
@@ -43,5 +42,3 @@ We are so lucky that we have a huge support from our amazing families and friend
 She is our little ray of hope her smile is so uplifting it can turn tears into laughter.
 
 ![Quote about Raising Kids with Special Needs]({{site.baseurl}}/_posts/Screen Shot 2020-07-06 at 3.35.23 PM.png)
-
-
