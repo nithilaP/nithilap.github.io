@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## By Carla McManus
+By Carla McManus
 
 ![Screen Shot 2020-07-06 at 3.34.32 PM.png]({{site.baseurl}}/_posts/Screen Shot 2020-07-06 at 3.34.32 PM.png)
 
