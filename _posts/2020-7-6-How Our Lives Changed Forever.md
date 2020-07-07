@@ -38,7 +38,11 @@ your soulmate and plan your life and not realise that it was a 1 in 50,000 chanc
 
 We are so lucky that we have a huge support from our amazing families and friends, who never go a day without checking in on us, but above all else, we now have to support each other to be strong for Lucy. We all hope for miracles, and we hope that Lucy “our warrior” can defy all the odds against her.
 
-****
-She is our little ray of hope her smile is so uplifting it can turn tears into laughter.
+**She is our little ray of hope her smile is so uplifting it can turn tears into laughter.**
 
 ![RaisingChildWithDisabilities.png]({{site.baseurl}}/_posts/Screen Shot 2020-07-06 at 3.35.23 PM.png)
+
+****
+About the Author
+
+Carla McManus
